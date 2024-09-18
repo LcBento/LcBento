@@ -1,6 +1,8 @@
-<p align="left">Lucas Bento | Desenvolvedor Web</p>
+<h1 align="left">Lucas Bento | Desenvolvedor Web</h1>
 
 ###
+
+<br clear="both">
 
 <p align="left">var bento = new Developer<br>{<br>    Name = "Lucas Bento",<br>    Pronouns = "He | His",<br>    Function = "Front-End",<br>    CurrentEducation = "Unyleya",<br>    Hobbies = [ "Learn",<br>                  "Gym",<br>                  "Games",<br>                  "Code",<br>                  "Series and Films",<br>                  "Meet and be with friends",<br>                ],<br>    Ambitions = [ "Develop skills and become a full-stack developer",<br>"Achieve work-life balance",<br>"Achieve fluency in English"<br>                ]<br>};</p>
 
@@ -13,7 +15,7 @@
 
 ###
 
-<p align="left">Idiomas e Ferramentas</p>
+<h2 align="left">Idiomas e Ferramentas</h2>
 
 ###
 
