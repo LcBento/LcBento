@@ -1,3 +1,9 @@
+<div align="right">
+  <img height="100" src="https://github.com/user-attachments/assets/b83fec50-177e-4ead-8d82-0bb13b4a7839"  />
+</div>
+
+###
+
 <h1 align="left">Lucas Bento | Desenvolvedor Web</h1>
 
 ###
