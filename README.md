@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">var bento = new Developer<br>{<br>    Name = "Lucas Bento",<br>    Pronouns = "He | His",<br>    Function = "Front-End",<br>    CurrentEducation = "Unyleya",<br>    Hobbies = [ "Learn",<br>                  "Gym",<br>                  "Games",<br>                  "Code",<br>                  "Series and Films",<br>                  "Meet and be with friends",<br>                ],<br>    Ambitions = [ "Develop skills and become a full-stack developer",<br>"Achieve work-life balance",<br>"Achieve fluency in English"<br>                ]<br>};</p>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LcBento&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LcBento&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
